@@ -1,0 +1,141 @@
+@import "reset.css";
+@font-face {
+  font-family: Helvetica;
+  src: url (Helvetica.ttf);
+}
+body {
+  width: 51vw;
+  margin: 9vw auto 0;
+  color: #000000;
+  background-color: #ffffff;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+      font-size: 48px;
+      font-weight: normal;
+      width: 3500px;
+      margin-left: 80px;
+      margin-top: 204px;
+}
+
+h2 {
+  margin-left: 78px;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 48px
+}
+
+h3 {
+  margin-left: 70px;
+  font-family: Helvetica;
+  font-style: bold;
+  font-size: 288px;
+}
+h4 { margin-top: 50px;
+  font-family:Helvetica;
+  font-weight: bold;
+  font-size: 48px;
+  margin-bottom: 15px
+}
+h5 {
+  font-family: Helvetica;
+  font-size: 48px
+}
+h6 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    margin-top: 37px;
+}
+img.futurology {
+  width: 432px;
+  margin-left: 30px;
+  margin-top: -360px;
+}
+img.designschool {
+  display: block;
+  width: 605px;
+  margin-left: 92px;
+}
+.one {
+  margin-left: 189px;
+  margin-top: -134px;
+}
+.two {
+  margin-left: 91px;
+  margin-bottom: 5px;
+  margin-top: 20px;
+}
+.three{
+  margin-left: 91px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+img.logo {
+  width: 452px;
+  margin-left: 455px;
+  margin-top: -615px;
+}
+img.bigdata {
+  width: 325px;
+  margin-left: 503px;
+  height: 345px;
+}
+img.wd {
+  margin-left: 443px;
+  width: 361px;
+  margin-top: -232px;
+}
+img.htmlcssphp {
+      width: 276px;
+      margin-left: 232px;
+      margin-bottom: 34px;
+      margin-top: 38px
+}
+img.lms {
+  width: 463px;
+  margin-left: 31px;
+}
+img.image5 {
+      margin-left: 474px;
+      margin-top: -324px;
+      width: 347px;
+}
+
+img.hseartanddesign {
+  display: block;
+  width: 556px;
+  margin: 17px auto;
+}
+img.code {
+  display: block;
+  margin-left: 82px;
+  width: 320px;
+  margin-top: 1px;
+}
+img.design {
+  width: 355px;
+  margin-left: 47px;
+}
+img.graphicdesign{
+  margin-left: 100px;
+  width: 389px;
+  margin-top: -298px;
+}
+img.csscolors{
+  margin-left: 138px;
+  width: 585px;
+}
+.text {
+  font-family: Helvetica;
+  font-size: 20px;
+  width: 900px;
+	height: 100px;
+}
+.ol {
+  font-size: 20px;
+  margin-top: -60px
+}
