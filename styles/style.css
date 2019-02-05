@@ -1,7 +1,7 @@
 @import "reset.css";
 @font-face {
   font-family: Helvetica;
-  src: url (Helvetica.ttf);
+  src: url(Helvetica.ttf);
 }
 body {
   width: 51vw;
@@ -20,10 +20,10 @@ h1 {
 }
 
 h2 {
-  margin-left: 78px;
+  margin-left: 80px;
   font-family: Helvetica;
   font-weight: bold;
-  font-size: 48px
+  font-size: 40px
 }
 
 h3 {
@@ -69,15 +69,21 @@ img.designschool {
   margin-bottom: 5px;
   margin-top: 20px;
 }
-.three{
+.three {
   margin-left: 91px;
   margin-bottom: 10px;
   margin-top: 20px;
 }
+img.htmlcssphp {
+  width: 257px;
+  margin-left: 138px;
+  margin-bottom: 34px;
+  margin-top: 38px;
+}
 img.logo {
-  width: 452px;
-  margin-left: 455px;
-  margin-top: -615px;
+    width: 433px;
+    margin-left: 320px;
+    margin-top: -615px;
 }
 img.bigdata {
   width: 325px;
@@ -85,24 +91,19 @@ img.bigdata {
   height: 345px;
 }
 img.wd {
-  margin-left: 443px;
-  width: 361px;
-  margin-top: -232px;
+      margin-left: 361px;
+      width: 361px;
+      margin-top: -232px;
 }
-img.htmlcssphp {
-      width: 276px;
-      margin-left: 232px;
-      margin-bottom: 34px;
-      margin-top: 38px
-}
+
 img.lms {
-  width: 463px;
-  margin-left: 31px;
+  width: 383px;
+  margin-left: 14px;
 }
 img.image5 {
-      margin-left: 474px;
-      margin-top: -324px;
-      width: 347px;
+      margin-left: 389px;
+      margin-top: -337px;
+      width: 297px;
 }
 
 img.hseartanddesign {
@@ -112,16 +113,16 @@ img.hseartanddesign {
 }
 img.code {
   display: block;
-  margin-left: 82px;
-  width: 320px;
+  margin-left: 39px;
+  width: 293px;
   margin-top: 1px;
 }
 img.design {
   width: 355px;
   margin-left: 47px;
 }
-img.graphicdesign{
-  margin-left: 100px;
+img.graphicdesign {
+  margin-left: 418px;
   width: 389px;
   margin-top: -298px;
 }
@@ -129,6 +130,11 @@ img.csscolors{
   margin-left: 138px;
   width: 585px;
 }
+
+img.shd {
+  width: 600px;
+}
+
 .text {
   font-family: Helvetica;
   font-size: 20px;
